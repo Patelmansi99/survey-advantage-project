@@ -9,6 +9,8 @@ import subprocess
 # But for my own verification, I can try to start it.
 # Let's keep it simple: assume server is at localhost:8000
 
+#new line added to the project 
+
 BASE_URL = "http://127.0.0.1:8000"
 
 def print_header(msg):
